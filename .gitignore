@@ -3,3 +3,4 @@
 tests.*
 /.idea/
 /requirements.txt
+/Problems/Menu/main.py
